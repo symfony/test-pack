@@ -7,7 +7,6 @@
         "php": "^7.0",
         "symfony/browser-kit": "*",
         "symfony/css-selector": "*",
-        "symfony/panther": "*",
         "symfony/phpunit-bridge": "*"
     }
 }
