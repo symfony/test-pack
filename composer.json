@@ -8,5 +8,11 @@
         "symfony/browser-kit": "*",
         "symfony/css-selector": "*",
         "symfony/phpunit-bridge": "*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "*",
+        "symfony/browser-kit": "*",
+        "symfony/css-selector": "*",
+        "symfony/phpunit-bridge": "*"
     }
 }
