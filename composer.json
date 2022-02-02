@@ -8,7 +8,8 @@
         "symfony/browser-kit": "*",
         "symfony/css-selector": "*",
         "symfony/phpunit-bridge": "*",
-        "symfony/dotenv": "^v5.1"
+        "symfony/dotenv": "^v5.1",
+
     },
     "require-dev": {
         "phpunit/phpunit": "*",
