@@ -4,15 +4,16 @@
     "license": "MIT",
     "description": "A pack for functional and end-to-end testing within a Symfony app",
     "require": {
-        "phpunit/phpunit": "^9.5",
+        "phpunit/phpunit": "*",
         "symfony/browser-kit": "*",
-        "symfony/css-selector": "*",
-        "symfony/phpunit-bridge": "*"
+        "symfony/css-selector": "*"
     },
     "require-dev": {
-        "phpunit/phpunit": "^9.5",
+        "phpunit/phpunit": "*",
         "symfony/browser-kit": "*",
-        "symfony/css-selector": "*",
-        "symfony/phpunit-bridge": "*"
+        "symfony/css-selector": "*"
+    },
+    "conflict": {
+        "phpunit/phpunit": "<11.1"
     }
 }
